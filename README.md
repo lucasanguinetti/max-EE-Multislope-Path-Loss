@@ -1,4 +1,4 @@
-Network Deployment for Maximal Energy Efficiency in Uplink with Multislope Path Loss
+Network-Deployment-for-Maximal-Energy-Efficiency-in-Uplink-with-Multislope-Path-Loss
 
 This is a code package is related to the follow scientific article:
 
